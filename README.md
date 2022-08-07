@@ -1,4 +1,4 @@
-# IBM-Professional-Certificate-Machine-Learning-Artifacts
+# IBM-Professional-Certificate-Machine-Learning
 This is my personal work when during the certification and learning of IBM Machine Learning Professional Certificate. The whole certification include 6 courses.
 
 ## Exploratory Data Analysis for Machine Learning
