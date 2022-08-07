@@ -13,4 +13,4 @@ This is my personal work when during the certification and learning of IBM Machi
 
 ## Deep Learning and Reinforcement Learning
 
-## Specialized Models: Time Series and Survival Analysis
+## Capstone Project
