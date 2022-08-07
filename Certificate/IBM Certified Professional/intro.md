@@ -1,1 +1,1 @@
-
+This certificate certifies that I have completed all tests and passed individual project assessments for all courses in the IBM Machine Learning Program. After the successful completion of the Capstone project evaluation, I received the Machine Learning Professional Certification from IBM.
