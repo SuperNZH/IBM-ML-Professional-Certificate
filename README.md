@@ -9,9 +9,9 @@ This professional certificate program emphasizes the development of skills neces
 
 | Course | Status |
 | --- | --- |
-| Exploratory Data Analysis for Machine Learning | ✅ |
-| Supervised Machine Learning: Regression | ✅ |
-| Supervised Machine Learning: Classification | ✅ |
-| Unsupervised Machine Learning | ✅ |
-| Deep Learning and Reinforcement Learning | ✅ |
-| Machine Learning Capstone | ✅ |
+| [Exploratory Data Analysis for Machine Learning](https://github.com/SuperNZH/IBM-ML-Professional-Certificate/tree/main/01-Exploratory%20Data%20Analysis%20for%20Machine%20Learning) | ✅ |
+| [Supervised Machine Learning: Regression](https://github.com/SuperNZH/IBM-ML-Professional-Certificate/tree/main/02-Supervised%20Machine%20Learning%20Regression) | ✅ |
+| [Supervised Machine Learning: Classification](https://github.com/SuperNZH/IBM-ML-Professional-Certificate/tree/main/03-Supervised%20Machine%20Learning%20Classification) | ✅ |
+| [Unsupervised Machine Learning](https://github.com/SuperNZH/IBM-ML-Professional-Certificate/tree/main/04-Unsupervised%20Machine%20Learning) | ✅ |
+| [Deep Learning and Reinforcement Learning](https://github.com/SuperNZH/IBM-ML-Professional-Certificate/tree/main/05-Deep%20Learning%20and%20Reinforcement%20Learning) | ✅ |
+| [Machine Learning Capstone](https://github.com/SuperNZH/IBM-ML-Professional-Certificate/tree/main/06-Capstone) | ✅ |
